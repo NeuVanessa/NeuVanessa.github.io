@@ -12,7 +12,7 @@ nav ul li .nav-nome {
 }
 
 nav ul li .nav-nome:hover{
-	border-bottom: 3px solid #ff06c1 ;
+	border-bottom: 3px solid #5a2b4f ;
 
 }
 
@@ -20,7 +20,7 @@ nav ul li .nav-cv {
 	text-align: center;
 	width: 110px;
 	font-size: 14px;
-	background-color: #ff06c1; 
+	background-color: #5a2b4f; 
 	border-radius:20px;
 	padding: 10px;
 	font-weight: bold;
@@ -41,7 +41,7 @@ nav ul li .nav-cv:hover{
 	}
 
 	nav ul li .nav-nome:hover{
-		border-bottom: 2px solid #ff06c1 ;
+		border-bottom: 2px solid #5a2b4f ;
 	
 	}
 
